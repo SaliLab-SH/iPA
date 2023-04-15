@@ -4,4 +4,4 @@ ActinAnalysisBox is a collection of code and data created to study the  actin fi
 
 
 ---
-There is no guarantee this code will work in your environment. We use the Python 3.7
+There is no guarantee this code will work in your environment. We use the Python 3.7 :)
